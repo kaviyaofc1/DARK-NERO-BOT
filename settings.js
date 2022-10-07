@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
+global.vcardowner = ['94775418384'] //ur owner number
+global.ownername = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
-global.socialm = "GitHub: Nero" //ur github or insta name
+global.socialm = "GitHub: kaviya" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
-global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
+global.owner = ['775418384']
+global.ownertag = '775418384' //ur tag number
+global.botname = '✫ ✫ ✫🎭🇱🇰 KAVIYA OFC 🇱🇰🎭✫ ✫ ✫' //ur bot name
+global.linkz = "https://github.com/Kaviyaofc1/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/Kaviyaofc/DARK-NERO-BOT.git" //ur website to be displayed
+global.botscript = 'https://github.com/Kaviyaofc/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.packname = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭\k\k\k\k\k\k\k\k\k\k\k🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.thum = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['775418384'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
