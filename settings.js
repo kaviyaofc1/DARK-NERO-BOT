@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94775418384'] //ur owner number
+global.vcardowner = ['94701659592'] //ur owner number
 global.ownername = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: kaviya" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['775418384']
-global.ownertag = '775418384' //ur tag number
+global.owner = ['701659592']
+global.ownertag = '701659592' //ur tag number
 global.botname = '✫ ✫ ✫🎭🇱🇰 KAVIYA OFC 🇱🇰🎭✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaviyaofc1/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaviyaofc/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaviyaofc/DARK-NERO-BOT.git' //script link
+global.websitex = "https://github.com/Kaviyaofc1/DARK-NERO-BOT.git" //ur website to be displayed
+global.botscript = 'https://github.com/Kaviyaofc1/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭\k\k\k\k\k\k\k\k\k\k\k🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur logo pic
+global.thum = fs.readFileSync("https://telegra.ph/file/d950381ce6b16a83c6240.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/d950381ce6b16a83c6240.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['775418384'] //ur premium numbers
+global.premium = ['701659592'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/d950381ce6b16a83c6240.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
